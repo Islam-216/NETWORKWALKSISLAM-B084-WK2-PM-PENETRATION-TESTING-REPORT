@@ -311,6 +311,6 @@ ndiff baseline_lan.xml current_lan.xml
 
 ## 👨‍💻 Author & Acknowledgments
 
-* **Author:** Islam Tamer Soliman Allam — Cybersecurity Professional *(Batch B084)*
+* **Author:** Islam Tamer Soliman Allam — *(Batch B084)*
 * **Training & Mentorship:** [Networkwalks Academy](https://networkwalks.com)
 * **License:** Shared under the MIT License for authorized educational and defensive security research.
